@@ -1,7 +1,7 @@
 # write your method herehttps://learn.co/tracks/kode-with-klossy-level-1/ruby/methods/crazy-strings-lab#
 
 def crazy_strings(a,b)
-  a.reverse.upcase + " " + b.swapcase.gsub("s","z").gsub("S","Z")
+  puts a.reverse.upcase + " " + b.swapcase.gsub("s","z").gsub("S","Z")
 end
 
 # Test Cases 
