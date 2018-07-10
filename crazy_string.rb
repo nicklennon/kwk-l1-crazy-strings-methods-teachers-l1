@@ -5,6 +5,6 @@ def crazy_strings(a,b)
 end
 
 # Test Cases 
-puts crazy_strings("Hello","Friends")
-puts crazy_strings("APPLE", "")
-puts crazy_strings("AA", "bb")
+# puts crazy_strings("Hello","Friends")
+# puts crazy_strings("APPLE", "")
+# puts crazy_strings("AA", "bb")
